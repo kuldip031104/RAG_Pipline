@@ -60,6 +60,7 @@ User Query → Embed → Retrieve → Rerank → Evidence Check → LLM Answer
 👨‍💻 Author
 kuldip jadav
 
-Kuldip Jadav
 
-4️⃣ Notepad ma paste karo
+
+
+
