@@ -1,0 +1,9 @@
+pypdf
+faiss-cpu
+sentence-transformers
+ctransformers
+joblib
+numpy
+scipy
+scikit-learn
+tqdm
